@@ -127,7 +127,7 @@ def main():
     os.makedirs("data", exist_ok=True)
     os.makedirs("outputs", exist_ok=True)
 
-    ds = load_dataset("glue", "sst2", split="validation").shuffle(seed=args.seed).select(range(args.samples))
+    ds = load_dataset("nyu-mll/glue", "sst2", split="validation").shuffle(seed=args.seed).select(range(args.samples))
     id2label = {0: "NEGATIVE", 1: "POSITIVE"}
     texts = [str(x) for x in ds["sentence"]]
     refs = [id2label[int(y)] for y in ds["label"]]
