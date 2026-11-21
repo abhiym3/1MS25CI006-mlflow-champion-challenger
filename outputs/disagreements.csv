@@ -1,0 +1,4 @@
+id,text,reference,model_a_pred,model_b_pred,comment
+6,the film tunes into a grief that could lead a man across centuries . ,POSITIVE,NEGATIVE,POSITIVE,Models predicted opposite sentiment on this review.
+11,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",POSITIVE,NEGATIVE,POSITIVE,Models predicted opposite sentiment on this review.
+18,true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,POSITIVE,NEGATIVE,POSITIVE,Models predicted opposite sentiment on this review.

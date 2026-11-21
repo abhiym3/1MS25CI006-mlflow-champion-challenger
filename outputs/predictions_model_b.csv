@@ -1,0 +1,51 @@
+id,text,reference,prediction,score,correct
+0,"it gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right . ",POSITIVE,POSITIVE,0.9997052550315857,True
+1,my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor . ,POSITIVE,POSITIVE,0.9995935559272766,True
+2,"for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . ",POSITIVE,POSITIVE,0.9996522665023804,True
+3,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors . ,POSITIVE,POSITIVE,0.999289870262146,True
+4,"charles ' entertaining film chronicles seinfeld 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic adams ' attempts to get his shot at the big time . ",POSITIVE,POSITIVE,0.9993805885314941,True
+5,and that leaves a hole in the center of the salton sea . ,NEGATIVE,NEGATIVE,0.9955220222473145,True
+6,the film tunes into a grief that could lead a man across centuries . ,POSITIVE,POSITIVE,0.8487178087234497,True
+7,or doing last year 's taxes with your ex-wife . ,NEGATIVE,NEGATIVE,0.9940721392631531,True
+8,"the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . ",POSITIVE,POSITIVE,0.998173713684082,True
+9,too much of it feels unfocused and underdeveloped . ,NEGATIVE,NEGATIVE,0.9988866448402405,True
+10,the affectionate loopiness that once seemed congenital to demme 's perspective has a tough time emerging from between the badly dated cutesy-pie mystery scenario and the newfangled hollywood post-production effects . ,NEGATIVE,NEGATIVE,0.9976900815963745,True
+11,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",POSITIVE,POSITIVE,0.5367745161056519,True
+12,a movie with a real anarchic flair . ,POSITIVE,POSITIVE,0.9996780157089233,True
+13,fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . ,POSITIVE,POSITIVE,0.9943974018096924,True
+14,"aside from minor tinkering , this is the same movie you probably loved in 1994 , except that it looks even better . ",POSITIVE,POSITIVE,0.9711164832115173,True
+15,an unclassifiably awful study in self - and audience-abuse . ,NEGATIVE,NEGATIVE,0.9992536902427673,True
+16,a beguiling splash of pastel colors and prankish comedy from disney . ,POSITIVE,POSITIVE,0.9995988011360168,True
+17,sam mendes has become valedictorian at the school for soft landings and easy ways out . ,NEGATIVE,POSITIVE,0.9795149564743042,False
+18,true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,POSITIVE,POSITIVE,0.9776835441589355,True
+19,"his comedy premises are often hackneyed or just plain crude , calculated to provoke shocked laughter , without following up on a deeper level . ",NEGATIVE,NEGATIVE,0.9917197227478027,True
+20,it treats women like idiots . ,NEGATIVE,NEGATIVE,0.9976886510848999,True
+21,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy . ,POSITIVE,POSITIVE,0.999624490737915,True
+22,"nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy . ",NEGATIVE,NEGATIVE,0.9927692413330078,True
+23,"the last 20 minutes are somewhat redeeming , but most of the movie is the same teenage american road-trip drek we 've seen before - only this time you have to read the fart jokes ",NEGATIVE,NEGATIVE,0.9887757301330566,True
+24,it 's too bad that the helping hand he uses to stir his ingredients is also a heavy one . ,NEGATIVE,NEGATIVE,0.9977205395698547,True
+25,"the most hopelessly monotonous film of the year , noteworthy only for the gimmick of being filmed as a single unbroken 87-minute take . ",NEGATIVE,NEGATIVE,0.9977613687515259,True
+26,"in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest . ",NEGATIVE,NEGATIVE,0.9962403774261475,True
+27,"not far beneath the surface , this reconfigured tale asks disturbing questions about those things we expect from military epics . ",POSITIVE,POSITIVE,0.6764761209487915,True
+28,"samira makhmalbaf 's new film blackboards is much like the ethos of a stream of consciousness , although , it 's unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal ",NEGATIVE,NEGATIVE,0.9975743889808655,True
+29,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ,POSITIVE,NEGATIVE,0.9685541987419128,False
+30,"more romantic , more emotional and ultimately more satisfying than the teary-eyed original . ",POSITIVE,POSITIVE,0.9985425472259521,True
+31,a solid examination of the male midlife crisis . ,POSITIVE,POSITIVE,0.9991638660430908,True
+32,filmmakers who can deftly change moods are treasures and even marvels . ,POSITIVE,POSITIVE,0.9994086027145386,True
+33,part low rent godfather . ,NEGATIVE,NEGATIVE,0.992933988571167,True
+34,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun . ",POSITIVE,POSITIVE,0.998163640499115,True
+35,i 'll bet the video game is a lot more fun than the film . ,NEGATIVE,POSITIVE,0.9405283331871033,False
+36,"bennett 's naturalistic performance speaks volumes more truth than any ` reality ' show , and anybody contemplating their own drastic life changes should watch some body first . ",POSITIVE,POSITIVE,0.9993840456008911,True
+37,"a cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore . ",POSITIVE,POSITIVE,0.9996032118797302,True
+38,late marriage 's stiffness is unlikely to demonstrate the emotional clout to sweep u.s. viewers off their feet . ,NEGATIVE,NEGATIVE,0.9978152513504028,True
+39,"may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation . ",POSITIVE,POSITIVE,0.9995753169059753,True
+40,"though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . ",POSITIVE,POSITIVE,0.7832615375518799,True
+41,chabrol has taken promising material for a black comedy and turned it instead into a somber chamber drama . ,NEGATIVE,NEGATIVE,0.8419995307922363,True
+42,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",NEGATIVE,POSITIVE,0.9737242460250854,False
+43,"morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . ",POSITIVE,POSITIVE,0.9967519044876099,True
+44,"( næs ) directed the stage version of elling , and gets fine performances from his two leads who originated the characters on stage . ",POSITIVE,POSITIVE,0.9993521571159363,True
+45,a subject like this should inspire reaction in its audience ; the pianist does not . ,NEGATIVE,NEGATIVE,0.8637251257896423,True
+46,it confirms fincher 's status as a film maker who artfully bends technical know-how to the service of psychological insight . ,POSITIVE,POSITIVE,0.9994909763336182,True
+47,"a densely constructed , highly referential film , and an audacious return to form that can comfortably sit among jean-luc godard 's finest work . ",POSITIVE,POSITIVE,0.9996175765991211,True
+48,"( director ) o'fallon manages to put some lovely pictures up on the big screen , but his skill at telling a story -- he also contributed to the screenplay -- falls short . ",NEGATIVE,NEGATIVE,0.9081884622573853,True
+49,"what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action . ",POSITIVE,POSITIVE,0.9994664788246155,True

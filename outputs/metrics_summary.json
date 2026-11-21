@@ -1,0 +1,14 @@
+{
+  "model_a": {
+    "macro_f1": 0.8572011423908609,
+    "accuracy": 0.86,
+    "avg_latency_ms": 9.473497999988467,
+    "total_inference_s": 0.47367489999942336
+  },
+  "model_b": {
+    "macro_f1": 0.9166666666666667,
+    "accuracy": 0.92,
+    "avg_latency_ms": 16.739311999990605,
+    "total_inference_s": 0.8369655999995302
+  }
+}

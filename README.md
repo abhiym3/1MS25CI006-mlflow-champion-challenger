@@ -35,3 +35,13 @@ TODO: Write 150–250 words after running `evaluate.py` and `register_champion.p
 ## Limitations and declaration
 - Small evaluation subset (`50` examples) on CPU; results may vary on larger or domain-shifted reviews.
 - Built with assistance from Gemini; all code and results were reviewed and tested locally.
+
+## Results table
+| Model | Role | Macro-F1 (higher) | Accuracy (higher) | Avg Latency ms (lower) | Total Time s (lower) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `distilbert-base-uncased-finetuned-sst-2-english` | Champion candidate (A) | 0.8572 | 0.8600 | 9.47 | 0.47 |
+| `textattack/bert-base-uncased-SST-2` | Challenger (B) | 0.9167 | 0.9200 | 16.74 | 0.84 |
+| **Delta (B - A)** | — | +0.0595 | +0.0600 | +7.27 | +0.36 |
+
+## Decision
+Under our pre-declared rule, Challenger Model B (`textattack/bert-base-uncased-SST-2`) is promoted to `@champion` and Model A (`distilbert-base-uncased-finetuned-sst-2-english`) becomes `@challenger`. Model B improves `macro_f1` from `0.8572` to `0.9167` (`+0.0595`, or roughly +5.95 percentage points) and accuracy from `0.8600` to `0.9200` (`+0.0600`) on the 50-sample SST-2 validation subset. Because `+0.0595` clears our `+0.02` minimum improvement margin and B's average latency (`16.74 ms` vs. `9.47 ms`, about `1.77x` A's latency) stays well below the `5x` guardrail, B wins cleanly. At the same time, 50 samples is a relatively small evaluation set, so part of the gain could shift on a larger or noisier dataset; we also should note that `textattack/bert-base-uncased-SST-2` is larger (~110M vs. ~67M parameters), runs slower per item, and outputs `LABEL_0`/`LABEL_1` labels that require explicit mapping to `NEGATIVE`/`POSITIVE` and careful handling of borderline or context-heavy reviews.
